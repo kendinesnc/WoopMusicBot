@@ -1,10 +1,8 @@
 <h2 align="centre">Müzik Çalma Botu 🎵</h2>
 
 ### Burada daha fazla özelliğe sahip gelişmiş bilgi 🙂
+<img src="https://i.hizliresim.com/qa8xd11.jpg" width="200" height="200">
 
-<p align="center">
-  <img src="https://i.hizliresim.com/qa8xd11.jpg" width="150" height="150">
-</p>
 
 <h3>Gereksinimler 📝</h3>
 
