@@ -247,7 +247,7 @@ async def oynat(_, message: Message):
         await message.reply_photo(
         photo="final.png",
         reply_markup=keyboard,
-        caption="▶️ **Oynatılıyor** burada istenen şarkı {} RG Muzik Aracılığıyla 😜".format(
+        caption="▶️ **Oynatılıyor** burada istenen şarkı {} Woop Music Aracılığıyla 😜".format(
         message.from_user.mention()
         ),
     )
