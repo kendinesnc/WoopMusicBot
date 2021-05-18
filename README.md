@@ -3,7 +3,7 @@
 ### Burada daha fazla özelliğe sahip gelişmiş bilgi 🙂
 
 <p align="center">
-  <img src="https://i.hizliresim.com/qa8xd11.jpg">
+  <img src="https://i.hizliresim.com/qa8xd11.jpg" width="150" height="150">
 </p>
 
 <h3>Gereksinimler 📝</h3>
