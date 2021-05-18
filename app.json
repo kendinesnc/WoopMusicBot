@@ -16,7 +16,7 @@
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": "RG MUSIC🇹🇷"
+      "value": "Woop Music"
     },
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
